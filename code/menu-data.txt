@@ -1,0 +1,8 @@
+M01|Pepperoni Pizza|MK|Pepperoni,sos merah dan cheese|25.00
+M02|Sausage Pizza|MK|Sos pedas,salami ayam dan cheese|40.00
+M03|Truffle Mushroom Pizza|MK|Cendawan dan Krim truffle|15.00
+M04|Extra Cheese Pizza|MK|30% extra mozzarella cheese|30.00
+M05|Durian Pizza|MK|Bentong Durian dan cheese|44.00
+M10|Mineral Water|MN|Air mineral|4.00
+M13|Peppsi|MN|Soda|9.00
+M15|Orang Juice|MN|Jus oren|14.00
